@@ -12,11 +12,11 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .contenedor{
-    width:90%;
+    width:50%;
     max-width: 1200px;
     overflow: hidden;
     margin: auto;
-    padding: 60px 0;;
+    padding: 40px 0;;
 }
 
 header{
