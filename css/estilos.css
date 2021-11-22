@@ -28,13 +28,13 @@ body {
     text-transform: uppercase;
     text-shadow:2px 2px 1px rgb(0, 0, 0);
     font-family: 'Lucida Sans',  cursive;
-    margin-bottom: 0 px;
+    
     
 }
 
 .sabor { 
     color: #fff;
-    margin: -125px 0;
+    margin: -220px 0;
     font-size: 30px;
     font-weight: 600;
     text-shadow: 2px 2px 1px rgba(0,0,0,0.7);
