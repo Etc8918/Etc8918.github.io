@@ -13,7 +13,8 @@ body {
 .titulo {
     font-size: 50px;
     font-family: 'Dancing Script', cursive;
-    margin-bottom: 0 px;
+    margin-top: 20px;
+    margin-bottom: -98%;
     color: #fff;
 }
 
@@ -77,6 +78,7 @@ body {
 .carousel .indicators .indicator-item{
     border-radius: 0;
     transform: rotate(45deg);
-    margin: 0 15px;
+    margin: 0 10px;
     background: #2093ff;
+    margin-bottom: 15%
 }
