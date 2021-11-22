@@ -13,34 +13,38 @@ body {
 .titulo {
     font-size: 50px;
     font-family: 'Dancing Script', cursive;
-    margin-bottom: 50px;
+    margin-bottom: 0 px;
     color: #fff;
 }
 
 .subtitulos {
     margin: 0;
-    color: rgb(66, 34, 243);
+    color: rgb(255, 255, 255);
     display: inline;
     font-size: 30px;
     font-weight: 100;
     text-transform: uppercase;
+    text-shadow:2px 2px 1px rgb(0, 0, 0);
+    font-family: 'Lucida Sans',  cursive;
+    margin-bottom: 0 px;
     
 }
 
 .sabor { 
     color: #fff;
-    margin: 7px 0;
-    font-size: 10px;
+    margin: -125px 0;
+    font-size: 30px;
     font-weight: 600;
     text-shadow: 2px 2px 1px rgba(0,0,0,0.7);
     font-family: 'Dancing Script', cursive;
     margin-top: 0;
+    align-items: flex-end;
 }
 
 .linea-division {
     width: 80%;
     height: 2px;
-    background-color: #36221c;
+    background-color: #00caee;
 }
 .carousel{
     min-height: 200px;
@@ -74,5 +78,5 @@ body {
     border-radius: 0;
     transform: rotate(45deg);
     margin: 0 15px;
-    background: #0a16c8;
+    background: #2093ff;
 }
