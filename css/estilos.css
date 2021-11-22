@@ -11,18 +11,18 @@ body {
 }
 
 .titulo {
-    font-size: 40px;
+    font-size: 50px;
     font-family: 'Dancing Script', cursive;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     color: #fff;
 }
 
-.subtitulo {
+.subtitulos {
     margin: 0;
-    color: rgb(97, 19, 19);
+    color: rgb(66, 34, 243);
     display: inline;
-    font-size: 50px;
-    font-weight: 500;
+    font-size: 30px;
+    font-weight: 100;
     text-transform: uppercase;
     
 }
@@ -30,7 +30,7 @@ body {
 .sabor { 
     color: #fff;
     margin: 7px 0;
-    font-size: 50px;
+    font-size: 10px;
     font-weight: 600;
     text-shadow: 2px 2px 1px rgba(0,0,0,0.7);
     font-family: 'Dancing Script', cursive;
@@ -43,7 +43,7 @@ body {
     background-color: #36221c;
 }
 .carousel{
-    min-height: 300px;
+    min-height: 200px;
 }
 
 /* Estilos Materialize*/
@@ -55,8 +55,8 @@ body {
     user-select: none;
     
     
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
 }
 
 .carousel .carousel-item img{
