@@ -8,7 +8,5 @@ document.addEventListener('DOMContentLoaded',()=>{
         numVisible: 3,
         indicators:true,
         noWrap:false
-
-
     });
 });
